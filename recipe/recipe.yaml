@@ -12,7 +12,7 @@ source:
   # url: https://github.com/esheldon/${{ name }}/archive/${{ version }}.tar.gz
   # sha256: a0fab9771ae00aa3079c0389488f7b684ee9a9cb1c66d152156f08bbcfd622c8
   git: https://github.com/esheldon/esutil.git
-  git_ref: 925c1015f11c36b3cad812693d5b5f157a190977
+  ref: 925c1015f11c36b3cad812693d5b5f157a190977
 
 build:
   number: 3
