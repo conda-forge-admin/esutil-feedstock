@@ -34,8 +34,8 @@ requirements:
     - ${{ compiler('cxx') }}
   host:
     - python
-    - pip =25
-    - setuptools =80
+    - pip
+    - setuptools
     - numpy
   run:
     - python
