@@ -12,7 +12,7 @@ source:
   sha256: 59ed1b93db18c71c5483f12938b7bb76e5fabccfdf0f7371565f2ddce7008587
 
 build:
-  number: 3
+  number: 0
   script:
     - if: linux
       then: export CFLAGS="${CFLAGS} -Wno-incompatible-pointer-types"
